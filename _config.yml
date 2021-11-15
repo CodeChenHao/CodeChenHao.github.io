@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 江南小镇
-subtitle:
-description:
+title: 江南
+subtitle: 天道酬勤
+description: 命运就像自己的掌纹，虽然弯弯曲曲，却永远掌握在自己手中。
 author: Mr.Chen
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -373,7 +373,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: edf1040019df5948a2dda84669612d11
 
 # Duoshuo ShortName
 #duoshuo_shortname:
