@@ -6,7 +6,7 @@
   <link href="https://chenhaonan.dpdns.org/atom.xml" rel="self"/>
   
   <link href="https://chenhaonan.dpdns.org/"/>
-  <updated>2026-01-10T04:31:44.254Z</updated>
+  <updated>2026-01-25T07:50:48.173Z</updated>
   <id>https://chenhaonan.dpdns.org/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows远程连接</title>
+    <link href="https://chenhaonan.dpdns.org/posts/6658/"/>
+    <id>https://chenhaonan.dpdns.org/posts/6658/</id>
+    <published>2026-01-24T16:00:00.000Z</published>
+    <updated>2026-01-25T07:50:48.173Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、RDP协议"><a href="#一、RDP协议" class="headerlink" title="一、RDP协议"></a>一、RDP协议</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">RDP(Remote Desktop Protocol), 远程桌面协议</span><br><span class="line">RDP是微软来实现对windows主机的远程管理的协议，服务器端监听TCP协议的3389端口，为客户端提供服务端的桌面的映像，并允许保持活动控制。</span><br><span class="line">注：windows家庭版不支持作为被控端</span><br></pre></td></tr></table></figure><h1 id="二、开启允许远程控制"><a href="#二、开启允许远程控制" class="headerlink" title="二、开启允许远程控制"></a>二、开启允许远程控制</h1><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125152732070.png" alt="image-20260125152732070"></p><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125152838778.png" alt="image-20260125152838778"></p><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125152932692.png" alt="image-20260125152932692"></p><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125153016498.png" alt="image-20260125153016498"></p><h1 id="三、测试是否能远程控制"><a href="#三、测试是否能远程控制" class="headerlink" title="三、测试是否能远程控制"></a>三、测试是否能远程控制</h1><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125153237688.png" alt="image-20260125153237688"></p><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125154013086.png" alt="image-20260125154013086"></p><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125154122279.png" alt="image-20260125154122279"></p><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125154210606.png" alt="image-20260125154210606"></p><p><img src="/../images/Windows%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5/image-20260125154239322.png" alt="image-20260125154239322"></p>]]></content>
+    
+    
+    <summary type="html">Windows远程连接</summary>
+    
+    
+    
+    <category term="后端" scheme="https://chenhaonan.dpdns.org/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="后端" scheme="https://chenhaonan.dpdns.org/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="操作系统" scheme="https://chenhaonan.dpdns.org/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="Windows" scheme="https://chenhaonan.dpdns.org/tags/Windows/"/>
+    
+  </entry>
   
   <entry>
     <title>数据结构与算法-简单认识</title>
